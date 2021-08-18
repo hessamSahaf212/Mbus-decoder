@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: m-bus_parse, Configuration: Debug Win32 ------
+1>mbus_parse.c
+1>C:\Users\49176\Desktop\lorawan\m-bus_parse1\m-bus_parse1\m-bus_parse\mbus_parse.c(142,42): warning C4013: 'calc_checksum' undefined; assuming extern returning int
+1>C:\Users\49176\Desktop\lorawan\m-bus_parse1\m-bus_parse1\m-bus_parse\mbus_parse.c(94,6): warning C4101: 'fd': unreferenced local variable
+1>mbus-protocol.obj : error LNK2019: unresolved external symbol _mbus_data_fixed_medium referenced in function _mbus_data_fixed_print
+1>C:\Users\49176\Desktop\lorawan\m-bus_parse1\m-bus_parse1\m-bus_parse\Debug\m-bus_parse.exe : fatal error LNK1120: 1 unresolved externals
+1>Done building project "m-bus_parse.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
